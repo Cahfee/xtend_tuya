@@ -562,6 +562,12 @@
                     }
                 }
             },
+            "lock_record": {
+                "name": "Lock record"
+            },
+            "lockout_alarm": {
+                "name": "Lockout alarm"
+            },
             "numbered_button": {
                 "name": "Button {button_number}",
                 "state_attributes": {
@@ -573,6 +579,9 @@
                         }
                     }
                 }
+            },
+            "open_inside": {
+                "name": "Opened from inside"
             },
             "unlock_user": {
                 "name": "Unlock user ({user_type})"
